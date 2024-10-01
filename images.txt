@@ -1,1 +1,2 @@
 mysql:5.7.33
+apecloud/gaussdb:2.23.01.200
