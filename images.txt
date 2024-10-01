@@ -1,2 +1,3 @@
 mysql:5.7.33
 apecloud/gaussdb:2.23.01.200
+opengauss/opengauss:5.0.0
